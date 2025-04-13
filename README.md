@@ -1,4 +1,4 @@
 # apnacollege_demo
 This is my second Repository.
 <br> 
-Auther - Ashu Yadav
+Auther - Ashu (PSIT)
